@@ -4,4 +4,6 @@
 
 
 mvn compile
+
+
 mvn exec:java -Dexec.mainClass="com.wyc.Exam_12709_20161209_1.App"
